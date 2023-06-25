@@ -1,1 +1,1 @@
-# Basketball_Posture_corrector
+# Basketball-Posture-corrector
